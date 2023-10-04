@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "city-population-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "csv-stringify": "^6.4.2",
+    "fastify": "^4.23.2"
+  }
+}
